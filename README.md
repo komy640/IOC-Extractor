@@ -107,6 +107,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Contact
 👤 **Author**: k0my  
-📧 **Email**: your-email@example.com  
-🐙 **GitHub**: [your-username](https://github.com/your-username)
+📧 **Email**: alkomyy22@gmail.com  
+🔗 **LinkedIn**: (https://www.linkedin.com/in/ahmed-elkomy-b17946256/)
 
